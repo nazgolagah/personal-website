@@ -3,28 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Taking inspiration from its home city, Shaya Jewellery introduces Tiger Eye for SS16. An homage to the Tehran skyline, designer Shaya Hosseini has incorporated the graphic lines and abstract shapes of the capital city’s architecture to create a collection which sets a stylish statement for the wearer.
 
-There are currently two themes built on Poole:
+Since founding Shaya Jewellery in 2016, designer Shaya has taken the brand from strength to strength, honing her craft with each collection to create a unique and distinctive style which pushes boundaries in terms of wearability and the materials she uses. AW15 saw the launch of Tiger Eye in yellow gold finish with grey faux-pearls – an instant success that encouraged Leila to expand the collection dramatically for 2016.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+  <img id="shayaimg" src="https://scontent.xx.fbcdn.net/v/t1.0-9/10340178_10202073969131206_5401059413711129249_n.jpg?oh=13b5b1a090b671c273f61cc3259cfb8c&oe=5807F09A" />
+
+For more pictures of me click <a href="https://www.facebook.com/shaya.hosseini.3?fref=ts">here</a>. 

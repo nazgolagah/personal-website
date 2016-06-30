@@ -1,38 +1,25 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Home
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<div class="message">
+Elizabeth Taylor
+</div>
+<blockquote>I adore wearing gems, but not because they are mine. You can't possess radiance, you can only admire it.</blockquote>
 
-### Built on Poole
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+<table>
+  <thead>
+    <tr>
+      <th><img src= "https://c1.staticflickr.com/3/2025/2160573847_e9d45c269d_z.jpg?zz=1" /></th>
+      <th><img src= "http://previews.123rf.com/images/timothyh/timothyh1010/timothyh101000048/8064984-Close-up-of-colorful-semi-precious-stones-Stock-Photo-gemstones.jpg" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src= "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD8aMFVQIFecwwzOVo0rsRlAobHHgxowmTZPRiB0Fkg7V-upik" /></td>
+      <td><img src= "http://previews.123rf.com/images/dja65/dja651108/dja65110800148/10396239-Multicolored-stones-background-Stock-Photo-stones-precious.jpg" /></td>
+    </tr>
+  </tbody>
+</table>
